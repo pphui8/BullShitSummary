@@ -1,8 +1,9 @@
 # BullShitSummary
 狗屁不通总结生成器
 > 生成一段300字左右的实验总结
+
 <br>
-!(样例站点)[]
+样例站点：https://pphui8.github.io/bss/
 <br>
 
 #### 生成规则
